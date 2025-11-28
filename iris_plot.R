@@ -18,3 +18,5 @@ ggplot(data = iris, aes(x = Petal.Width, y = Petal.Length, color = Species)) +
   ) +
   theme_light()
 
+shape = Species
+
